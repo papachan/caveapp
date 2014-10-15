@@ -1,4 +1,6 @@
+*.FASL
 *.fasl
+*.lisp-temp
 *.dx32fsl
 *.dx64fsl
 *.lx32fsl
