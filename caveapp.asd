@@ -25,5 +25,5 @@
                  (:file "view" :depends-on ("config"))
                  (:file "db" :depends-on ("config"))
                  (:file "config"))))
-  :description ""
+  :description "A simple commonlisp project with caveman2"
   :in-order-to ((test-op (load-op caveapp-test))))
