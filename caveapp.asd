@@ -11,6 +11,7 @@
                :caveman2
                :envy
                :cl-ppcre
+               :jsown
 
                ;; HTML Template
                :cl-emb

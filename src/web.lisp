@@ -24,6 +24,10 @@
   (with-layout (:title "Welcome to Caveman2")
     (render #P"index.tmpl")))
 
+(defroute "/prueba" ()
+  (with-layout (:title "sas")
+    (render #P"index.tmpl")))
+
 ;;
 ;; Error pages
 
